@@ -37,7 +37,7 @@ Project Name | Area | Description | Libraries
 🛍 [Spot the Difference Tool (For Preventing Cyber Attacks](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/OpenCv%20Spot%20the%20Difference%20Tool%20(For%20Preventing%20Cyber%20Attacks)) | OpenCV Project | Build a OpenCV tool which spot the differences between to 2 identical images. This tool is effective in preventing  cyber attacks. | NumPy, imutils, cv2
 
 # Tableau
-Skills Level: Intermediate
+- Skills Level: Intermediate
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
 🦄 Making Sales Manager's life Easier |  | [Link](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier)
