@@ -38,5 +38,5 @@ Project Name | Area | Description | Libraries
 # Tableau
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
-🦄 [Maven Unicorn Challenge](https://github.com/manisharehal/Tableau-Projects/tree/main/Maven%20Unicorn%20Challenge) |  | [Link](https://public.tableau.com/authoring/MavenUnicorn_16667200845270/Unicorns#1)
-🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/manisharehal/Tableau-Projects/tree/main/Covid-19%20and%20Impact%20on%20Malaysia%20stock%20market) |  A project close to 🏡 home. Inspired by Alex Freberg's Data Exploration Project, I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau.| Link
+🦄 [Making Sales Manager's life Easier](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) |  | [Link](https://public.tableau.com/authoring/MavenUnicorn_16667200845270/Unicorns#1)
+🦠 [Global Automobile Sales Data](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Global%20Automobile%20Sales%20Data) | As part of this project, I created a number of charts and dashboards to visually convey the market share of passenger automobiles (by manufacturer, such as Maruti, Hyundai, Toyota, Ford, Tesla, etc.) in India and globally.| [Link](https://public.tableau.com/app/profile/harshal1110/viz/AutomobileGlobalSales/GlobalCarSalesReport)
