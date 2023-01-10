@@ -38,5 +38,5 @@ Project Name | Area | Description | Libraries
 # Tableau
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
-🦄 [Making Sales Manager's life Easier](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) |  | [Link](https://public.tableau.com/authoring/MavenUnicorn_16667200845270/Unicorns#1)
+🦄 Making Sales Manager's life Easier |  | [Link](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier)
 🦠 [Global Automobile Sales Data](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Global%20Automobile%20Sales%20Data) | As part of this project, I created a number of charts and dashboards to visually convey the market share of passenger automobiles (by manufacturer, such as Maruti, Hyundai, Toyota, Ford, Tesla, etc.) in India and globally.| [Link](https://public.tableau.com/app/profile/harshal1110/viz/AutomobileGlobalSales/GlobalCarSalesReport)
