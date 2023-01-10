@@ -15,20 +15,15 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 # SQL
-Level: Intermediate SQL
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+- Level: Intermediate SQL
 
 Project Name | Description | SQL Functions
 | :--- | :--- | :---
 🍜[SQL For EDA](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/SQL%20for%20EDA)| Applied Intermediate & basic SQL queries to perform explortary data analysis  | Intermediate SQL
 🍕[Instagram Database Clone](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Created a copy of the IG database and use it to demonstrate different SQL queries.| Intermediate SQL
-🥑[Foodie-Fi](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) |  | Advanced SQL
-🏦[Data Bank](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank) |  | Advanced SQL
-🌽[Data Mart](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%235%20-%20Data%20Mart)  |  | Advanced SQL
-🦠[Covid-19 and the Impact on Malaysia Stock Market](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%236:%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market) |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 # Python
+- Level: Intermediate
 - Skills: Data cleaning, wrangling, visualisation, analysis 
 - Libraries: Pandas, NumPy, Matplotlib, seaborn, SkLearn, apriori, beautifulSoup, requests, bs4
 
@@ -42,6 +37,7 @@ Project Name | Area | Description | Libraries
 🛍 [Spot the Difference Tool (For Preventing Cyber Attacks](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/OpenCv%20Spot%20the%20Difference%20Tool%20(For%20Preventing%20Cyber%20Attacks)) | OpenCV Project | Build a OpenCV tool which spot the differences between to 2 identical images. This tool is effective in preventing  cyber attacks. | NumPy, imutils, cv2
 
 # Tableau
+Skills Level: Intermediate
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
 🦄 Making Sales Manager's life Easier |  | [Link](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier)
