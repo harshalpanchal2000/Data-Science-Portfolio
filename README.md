@@ -30,7 +30,7 @@ Project Name | Description | SQL Functions
 
 # Python
 - Skills: Data cleaning, wrangling, visualisation, analysis 
-- Libraries: Pandas, NumPy, Matplotlib, seaborn, SkLearn, apriori
+- Libraries: Pandas, NumPy, Matplotlib, seaborn, SkLearn, apriori, beautifulSoup, requests, bs4
 
 Project Name | Area | Description | Libraries
 | :--- | :--- | :--- | :---
