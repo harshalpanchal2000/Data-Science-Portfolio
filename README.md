@@ -38,6 +38,7 @@ Project Name | Area | Description | Libraries
 
 # Tableau
 - Skills Level: Intermediate
+
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
 🦄 Making Sales Manager's life Easier |  | [Link](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier)
