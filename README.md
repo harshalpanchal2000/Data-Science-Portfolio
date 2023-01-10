@@ -32,7 +32,7 @@ Project Name | Description | SQL Functions
 Skills: Data cleaning, wrangling, visualisation, analysis Libraries: pandas, numpy, matplotlib, seaborn
 Project Name | Area | Description | Libraries
 | :--- | :--- | :--- | :---
-🛍 [Super Store Analysis](https://github.com/manisharehal/Python-Projects/tree/main/Super%20Store%20Analysis) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments |pandas, matplotlib, seaborn
+🛍 [Spotify Recommendation Model using Machine Learning](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Spotify%20Recommendation%20Model%20using%20Machine%20Learning) | Recommendation Model | In this project, I've developed a music recommendation model using machine learning techniques that functions similarly to Spotify's algorithm. |Pandas, NumPy matplotlib, seaborn
 🏙 [Exploring the NYC Airbnb Market](https://github.com/manisharehal/Python-Projects/tree/main/Exploring%20the%20NYC%20Airbnb%20Market) | EDA | Exploring Airbnb datasets and conducting a pricing analysis between Airbnb and private rentals. |pandas, numpy, datetime
 
 # Tableau
