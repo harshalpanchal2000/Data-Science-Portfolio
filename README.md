@@ -1,7 +1,7 @@
 # 🗺 Portfolio Guide
 Hello there! 🙋🏻‍♀️
 
-Please find a walkthrough of all of my data analytics projects and courses in my portfolio guide.
+Please find a walkthrough of all of my data science projects and courses in my portfolio guide.
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panchal/) about my projects!
 
