@@ -21,8 +21,8 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 Project Name | Description | SQL Functions
 | :--- | :--- | :---
-🍜[Danny's Diner](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)| Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. | Advanced SQL
-🍕[Pizza Runner](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  | Advanced SQL
+🍜[SQL For EDA](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/SQL%20for%20EDA)| Applied Intermediate & basic SQL queries to perform explortary data analysis  | Intermediate SQL
+🍕[Instagram Database Clone](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Created a copy of the IG database and use it to demonstrate different SQL queries.| Intermediate SQL
 🥑[Foodie-Fi](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) |  | Advanced SQL
 🏦[Data Bank](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank) |  | Advanced SQL
 🌽[Data Mart](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%235%20-%20Data%20Mart)  |  | Advanced SQL
