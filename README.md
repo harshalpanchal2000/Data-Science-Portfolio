@@ -21,6 +21,7 @@ Project Name | Description | Skills
 | :--- | :--- | :---
 🍜[SQL For EDA](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/SQL%20for%20EDA)| Applied Intermediate & basic SQL queries to perform explortary data analysis  | Intermediate SQL
 🍕[Instagram Database Clone](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Created a copy of the IG database and use it to demonstrate different SQL queries.| Intermediate SQL
+[Danny's Dinner](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Created a copy of the IG database and use it to demonstrate different SQL queries.| Intermediate SQL
 
 # Python
 - Level: Intermediate
