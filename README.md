@@ -12,7 +12,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 
 [Tableau](#tableau)
 
-[Cloud Deployment](# Cloud Deployment )
+[Cloud Deployment](#clouddeployment )
 
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
@@ -48,7 +48,7 @@ Project Name | Description | Tableau Dashboard
 🦠 [Global Automobile Sales Data](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Global%20Automobile%20Sales%20Data) | As part of this project, I created a number of charts and dashboards to visually convey the market share of passenger automobiles (by manufacturer, such as Maruti, Hyundai, Toyota, Ford, Tesla, etc.) in India and globally.| [Link](https://public.tableau.com/app/profile/harshal1110/viz/AutomobileGlobalSales/GlobalCarSalesReport)
 
 
-# Cloud Deployment 
+# Cloud Deployment <a name="clouddeployment"></a>
 - Skills Level: Basic to Intermediate
 
 Project Name | Description | Link
