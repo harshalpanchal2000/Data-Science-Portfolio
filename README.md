@@ -12,6 +12,8 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 
 [Tableau](#tableau)
 
+[Cloud Deployment](#clouddepolyment)
+
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 # SQL
