@@ -17,7 +17,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 # SQL
-- Skills Level: Intermediate
+- Skill Level: Intermediate
 
 Project Name | Description | Skills
 | :--- | :--- | :---
@@ -40,7 +40,7 @@ Project Name | Area | Description | Libraries
 🛍 [Spot the Difference Tool (For Preventing Cyber Attacks](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/OpenCv%20Spot%20the%20Difference%20Tool%20(For%20Preventing%20Cyber%20Attacks)) | OpenCV Project | Build a OpenCV tool which spot the differences between to 2 identical images. This tool is effective in preventing  cyber attacks. | NumPy, imutils, cv2
 
 # Tableau
-- Skills Level: Intermediate
+- Skill Level: Intermediate
 
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
@@ -49,9 +49,21 @@ Project Name | Description | Tableau Dashboard
 
 
 # Cloud Deployment <a name="clouddeployment"></a>
-- Skills Level: Basic to Intermediate
+- Skill Level: Basic to Intermediate
 
 Project Name | Description  | Link | Skills 
 | :--- | :--- | :--- | :--- 
 🦄 [HeartBeats - Because, we care](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Engineered an interactive R Shiny app for precise cardiovascular health prognostication, drawing from a robust model trained on an expansive dataset of 50,000 patient profiles. The app ingeniously integrates user-input variables encompassing age, height, weight, blood pressure, glucose levels, cholesterol, lifestyle factors like drinking, smoking, and exercise frequency. With a remarkable 91% predictive accuracy, the model empowers users to gauge their cardiovascular well-being. The app was seamlessly deployed online using shinyapps.io, making it easily accessible for users to assess their health and receive personalized precautionary measures. This project underscores my expertise in predictive analytics, dynamic UI/UX design, and web-based deployment. | [Click Here](https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)   | Model-Based Testing, Exploratory Data Analysis, SQL, R, Cloud Deployment
 
+
+# Data Analysis <a name="dataanalysis"></a>
+- Skill Level: Intermediate
+- Skills: Understanding Data, Basic Exploratory Data Analysis, Feature Engineering, Data Visualization, Data Manipulation,
+- Libraries: NumPy, Pandas, seaborn, Matplotlib, SkLearn, pandas_profiling, AutoML
+
+  Project Name | Description  | Link | Skills 
+| :--- | :--- | :--- | :--- 
+[Indian Premier League - EDA ](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Engineered an interactive R Shiny app for precise cardiovascular health prognostication, drawing from a robust model trained on an expansive dataset of 50,000 patient profiles. The app ingeniously integrates user-input variables encompassing age, height, weight, blood pressure, glucose levels, cholesterol, lifestyle factors like drinking, smoking, and exercise frequency. With a remarkable 91% predictive accuracy, the model empowers users to gauge their cardiovascular well-being. The app was seamlessly deployed online using shinyapps.io, making it easily accessible for users to assess their health and receive personalized precautionary measures. This project underscores my expertise in predictive analytics, dynamic UI/UX design, and web-based deployment. | [Click Here](https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)   | NumPy, Pandas, Exploratory Data Analysis, SQL, R, Cloud Deployment
+  
+
+  
