@@ -44,3 +44,12 @@ Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
 🦄 [Making Sales Manager's life Easier](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Designed Tableau Dashboard for Progress report of any project.  | [Link](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier)
 🦠 [Global Automobile Sales Data](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Global%20Automobile%20Sales%20Data) | As part of this project, I created a number of charts and dashboards to visually convey the market share of passenger automobiles (by manufacturer, such as Maruti, Hyundai, Toyota, Ford, Tesla, etc.) in India and globally.| [Link](https://public.tableau.com/app/profile/harshal1110/viz/AutomobileGlobalSales/GlobalCarSalesReport)
+
+
+# Cloud Deployment 
+- Skills Level: Basic to Intermediate
+
+Project Name | Description | Link
+| :--- | :--- | :---
+🦄 [HeartBeats - Because, we care](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Engineered an interactive R Shiny app for precise cardiovascular health prognostication, drawing from a robust model trained on an expansive dataset of 50,000 patient profiles. The app ingeniously integrates user-input variables encompassing age, height, weight, blood pressure, glucose levels, cholesterol, lifestyle factors like drinking, smoking, and exercise frequency. With a remarkable 91% predictive accuracy, the model empowers users to gauge their cardiovascular well-being. The app was seamlessly deployed online using shinyapps.io, making it easily accessible for users to assess their health and receive personalized precautionary measures. This project underscores my expertise in predictive analytics, dynamic UI/UX design, and web-based deployment. | [Link]([https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier](https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)
+
