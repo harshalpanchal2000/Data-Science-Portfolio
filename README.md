@@ -16,6 +16,8 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 
 [Data Analysis](#dataanalysis)
 
+[Research Work](#researchWork)
+
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 # SQL
@@ -73,5 +75,11 @@ Project Name | Description  | Link  | Skills
 | :--- | :--- | :--- | :--- 
 [Indian Premier League - EDA ](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Engineered an interactive R Shiny app for precise cardiovascular health prognostication, drawing from a robust model trained on an expansive dataset of 50,000 patient profiles. The app ingeniously integrates user-input variables encompassing age, height, weight, blood pressure, glucose levels, cholesterol, lifestyle factors like drinking, smoking, and exercise frequency. With a remarkable 91% predictive accuracy, the model empowers users to gauge their cardiovascular well-being. The app was seamlessly deployed online using shinyapps.io, making it easily accessible for users to assess their health and receive personalized precautionary measures. This project underscores my expertise in predictive analytics, dynamic UI/UX design, and web-based deployment. | [Click Here](https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)  | Exploratory Data Analysis, SQL, R, Cloud Deployment
   
+# Research Work <a name="researchwork"></a>
+- Skill Level: Intermediate
+- Skills: Understanding Data Problem, Basic Exploratory Data Analysis, Quantitative Research, Background check, Research Papers parsing
 
+Project Name | Description  | Link  | Skills
+| :--- | :--- | :--- | :--- 
+[Indian Premier League - EDA ](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Tableau%20Projects/Making%20Sales%20Manager's%20life%20Easier) | Engineered an interactive R Shiny app for precise cardiovascular health prognostication, drawing from a robust model trained on an expansive dataset of 50,000 patient profiles. The app ingeniously integrates user-input variables encompassing age, height, weight, blood pressure, glucose levels, cholesterol, lifestyle factors like drinking, smoking, and exercise frequency. With a remarkable 91% predictive accuracy, the model empowers users to gauge their cardiovascular well-being. The app was seamlessly deployed online using shinyapps.io, making it easily accessible for users to assess their health and receive personalized precautionary measures. This project underscores my expertise in predictive analytics, dynamic UI/UX design, and web-based deployment. | [Click Here](https://fwwir3-harshal-panchal.shinyapps.io/HeartBeat/)  | Exploratory Data Analysis, SQL, R, Cloud Deployment
   
