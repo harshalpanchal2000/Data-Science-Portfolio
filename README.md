@@ -8,7 +8,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/harshal-panc
 # 📚 Table of Contents
 [SQL](#sql)
 
-[Python](#python)
+[Machine Learning Projects](#machinelearningprojects)
 
 [Tableau](#tableau)
 
@@ -31,24 +31,24 @@ Project Name | Description | Skills
 [Foodie_Fi](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Analysis on Subscription based businesses called Foodie_Fi| Advance SQL
 [Data Mart](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/SQL%20Projects/Instagram%20Database%20Clone) |Data Analysis of Online Supermarket | Advance SQL
 
-Intermediate SQL
 
 
-
-# Python
+# Machine Learning Projects <a name="machinelearningprojects"></a>
 - Level: Intermediate
 - Skills: Data cleaning, wrangling, visualisation, analysis 
-- Libraries: Pandas, NumPy, Matplotlib, seaborn, SkLearn, apriori, beautifulSoup, requests, bs4
+- Libraries: Pandas, NumPy, MatPlotlib, seaborn, SkLearn, Apriori, beautifulSoup, requests, bs4, Keras, TensorFlow, 
 
 Project Name | Area | Description | Libraries
 | :--- | :--- | :--- | :---
+[Prediction of Amazon Stock Price Direction](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Data%20Analysis/Prediction%20of%20Amazon%20Stock%20Price%20Direction) | Machine Learning & Deep Learning Project | The objective of this project is to forecast the directional movement (up or down) of Amazon.com, Inc. (AMZN) stock prices. Rather than predicting the exact price, the focus is on binary classification, determining whether the closing price on the next day will be higher than the opening price. This approach aims to guide decisions on buying or selling stocks based on price movement direction.| Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn, TensorFlow, Keras, Hyperparameter Tuning, GridCv Search
+[Take Home Assignment of Airbnb DS Interview](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Data%20Analysis/Take%20Home%20Assignment%20of%20AirBnb%20DS%20Interview) | Business Analysis EDA Project | The objective of this project was to identify what the gaps are between guest demand and host supply that the new city manager could plug to increase the number of bookings in Dublin, what other data would be useful to have to deepen the analysis and understanding.| Pandas, NumPy, Matplotlib, Seaborn, Data Manipulation, Data Wrangling, Market Research
 [Spotify Recommendation Model using Machine Learning](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Spotify%20Recommendation%20Model%20using%20Machine%20Learning) | Recommendation Model | In this project, I've developed a music recommendation model using machine learning techniques that functions similarly to Spotify's algorithm. |Pandas, NumPy matplotlib, seaborn
 [Hate & Offensive Speech Detection Machine Learning Model ](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Hate%20%26%20Offensive%20Speech%20Detection%20Machine%20Learning%20Model) | Sentimental Analysis |  In this post, I will walk you through the development of a hate speech detection model using Machine Learning and Python. Hate Speech Detection is often a sentiment classification task. So, for training, creating a model that can recognise hate speech from a specific piece of text may be accomplished by training it on data that is often used to categorise feelings. As a result, I will employ Twitter data for the purpose of hate speech detection model. |Pandas, NumPy, nltk, Sklearn
 [Market Basket Analysis](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Unsupervised%20Learning%20%20Market%20Basket%20Analysis) | Basket Analysis |  The Apriori algorithm is used in Machine Learning to extract association rules from datasets. In this tutorial, I will walk you through Market Basket Analysis utilising the Apriori method in Machine Learning using Python. Typically, association mining is conducted on transaction data from a retail marketplace or an online e-commerce business.|Pandas, NumPy, Apriori, plotly
 [Webscraping Internships data from Internshala](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Webscraping%20Internships%20data%20from%20Internshala)) | WebScraping |  The Webscraped internship data for analysis. | NumPy, Pandas, AutoScraper
 [Real Time Stock Data Analysis](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/Real%20Time%20Stock%20Data%20Analysis) | WebScraping & Data Analysis |  The Webscraped & performed data analysis on AMZ, TSLA, GameStop stocks. | bs4, beautifulSoup, plotly, yfinance, pandas
 [Spot the Difference Tool (For Preventing Cyber Attacks](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Python%20Projects/OpenCv%20Spot%20the%20Difference%20Tool%20(For%20Preventing%20Cyber%20Attacks)) | OpenCV Project | Build a OpenCV tool which spot the differences between to 2 identical images. This tool is effective in preventing  cyber attacks. | NumPy, imutils, cv2
-[Prediction of Amazon Stock Price Direction](https://github.com/harshalpanchal2000/Personal_Projects/tree/main/Data%20Analysis/Prediction%20of%20Amazon%20Stock%20Price%20Direction) | Machine Learning & Deep Learning Project | The objective of this project is to forecast the directional movement (up or down) of Amazon.com, Inc. (AMZN) stock prices. Rather than predicting the exact price, the focus is on binary classification, determining whether the closing price on the next day will be higher than the opening price. This approach aims to guide decisions on buying or selling stocks based on price movement direction.| Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn, TensorFlow, Keras, Hyperparameter Tuning, GridCv Search
+
 
 # Tableau
 - Skill Level: Intermediate
